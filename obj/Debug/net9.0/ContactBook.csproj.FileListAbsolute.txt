@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Project\ContactBook\bin\Debug\net9.0\ContactBook.exe
+C:\Users\DELL\Desktop\Project\ContactBook\bin\Debug\net9.0\ContactBook.deps.json
+C:\Users\DELL\Desktop\Project\ContactBook\bin\Debug\net9.0\ContactBook.runtimeconfig.json
+C:\Users\DELL\Desktop\Project\ContactBook\bin\Debug\net9.0\ContactBook.dll
+C:\Users\DELL\Desktop\Project\ContactBook\bin\Debug\net9.0\ContactBook.pdb
+C:\Users\DELL\Desktop\Project\ContactBook\obj\Debug\net9.0\ContactBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Project\ContactBook\obj\Debug\net9.0\ContactBook.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Project\ContactBook\obj\Debug\net9.0\ContactBook.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Project\ContactBook\obj\Debug\net9.0\ContactBook.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Project\ContactBook\obj\Debug\net9.0\ContactBook.dll
+C:\Users\DELL\Desktop\Project\ContactBook\obj\Debug\net9.0\refint\ContactBook.dll
+C:\Users\DELL\Desktop\Project\ContactBook\obj\Debug\net9.0\ContactBook.pdb
+C:\Users\DELL\Desktop\Project\ContactBook\obj\Debug\net9.0\ContactBook.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Project\ContactBook\obj\Debug\net9.0\ref\ContactBook.dll
